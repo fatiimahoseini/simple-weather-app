@@ -5,7 +5,7 @@
 A simple weather app using OpenWeather API.
 
 # DEMO
-<a href="https://pig-game-nox.netlify.app/" target="_blank">🕹 Live Demo</a>
+<a href="https://weatherapp-ow-nox.netlify.app/" target="_blank">🕹 Live Demo</a>
 
 # BUILT WITH
 - React.Js
