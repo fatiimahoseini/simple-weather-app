@@ -1,5 +1,5 @@
 # Simple Weather App
-![pig-game](https://user-images.githubusercontent.com/87571337/178057386-85d3d803-43f0-4d15-8153-271b612331f4.png)
+![simple weather app](https://user-images.githubusercontent.com/87571337/211819229-0a674b44-d88b-4843-9b1e-083831b415d9.png)
 
 # ABOUT
 A simple weather app using OpenWeather API.
